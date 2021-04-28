@@ -71,4 +71,9 @@ class UserController extends Controller
         session_destroy();
         header('Location: /account/login');
     }
+
+    public function testEvent()
+    {
+        var_dump("test");
+    }
 }
