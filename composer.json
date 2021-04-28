@@ -1,0 +1,13 @@
+{
+    "name": "simon/projet-final",
+    "authors": [
+        {
+            "name": "Antoine Simonot",
+            "email": "73486863+AntoineSimonot@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^1.42",
+        "bramus/router": "^1.5"
+    }
+}
